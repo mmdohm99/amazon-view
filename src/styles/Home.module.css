@@ -1,3 +1,5 @@
-body {
+.Home {
+  margin: auto;
+  width: 90%;
   background-color: rgb(248, 244, 239);
 }

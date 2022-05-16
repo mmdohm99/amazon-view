@@ -1,0 +1,17 @@
+.next {
+  background-color: Transparent;
+  height: 500px;
+  top: 110px;
+  position: absolute;
+  font-size: 30px;
+  border: none;
+}
+.prev {
+  background-color: Transparent;
+  height: 500px;
+  top: 110px;
+  position: absolute;
+  left: 1565px;
+  font-size: 30px;
+  border: none;
+}
